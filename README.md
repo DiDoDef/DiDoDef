@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Merhaba+%3Araised_hand%3A+;Bakar+m%C4%B1s%C4%B1n+%3F;M%C3%BCsait+oldu%C4%9Funda+yazars%C4%B1n.)](https://git.io/typing-svg)
