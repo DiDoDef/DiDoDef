@@ -10,9 +10,9 @@
 
 
 
- > ### 🎈 Socials 
- 
- | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https:/didodef.com) | 🐦 [Twitter](https://twitter.com/didodef) | <br>
+ > ### 🎈 Socials
+> 
+ | 🐴 [Portfolio](https:/didodef.com) | 🐦 [Twitter](https://twitter.com/dido_def) | <br>
  Discord: didodef
  
  
