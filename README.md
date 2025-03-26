@@ -13,7 +13,8 @@
 
  > ### 🎈 Socials 
  
- | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https:/didodef.com) | 🐦 [Twitter](https://twitter.com/didodef) | Discord: didodef
+ | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https:/didodef.com) | 🐦 [Twitter](https://twitter.com/didodef) | <br>
+ Discord: didodef
  
  
 
